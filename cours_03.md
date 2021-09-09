@@ -1,19 +1,20 @@
 # Cours 3
 ## Décrire 5 emplois du domaine du multimédia
-Choisissez des emplois qui pourraient vous intéresser. 
+ 
 
-### Emploi 1 - Identification
-Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous.  
-
-### Emploi 2 - Identification
-4 à 5 lignes
-
-### Emploi 3 - Identification
-4 à 5 lignes 
-
-### Emploi 4 - Identification
-4 à 5 lignes
-
-### Emploi 5 - Identification
-4 à 5 lignes
-
+# Emploi 1 
+## Technicien en médiatisation 
+Il faut Assuré la réalisation technique de projets de médiatisation incluant les aspects de création, de composition et de montage des images et du son. Participé à la planification et à captation de prestations pédagogiques, de rayonnement ou de promotion. Soutenir les enseignant dans la production et la diffusion de leurs ressources numériques d’enseignement. Les principaux defis sont de discuté avec le responsable de la production et les demandeurs des projets de production et de médiatisation à entreprendre et prendre les moyens nécessaires pour assurer la réalisation technique de ces projets. Collaboré étroitement à des projets en transmettant ses connaissances et en apportant son support technique spécialisé. Il faut un diplôme d'études collégiales. 
+# Emploi 2 
+## Suport informatique  
+Le métier de support informatique consiste à fournir une assistance technique à distance et au bureau du matériel informatique, des systèmes logiciels et des appareils mobiles de l'entreprise pour assurer des opérations fluides. L'objectif est de soutenir la prestation et le bon fonctionnement du réseau comme des ordinateurs, téléphone de bureau, imprimantes, photocopieurs, appareils audiovisuels et d'autres dispositifs techniques. Les principales rôles et responsabilité sont répondre rapidement aux demandes d'assistance par téléphone, fournir un service client exceptionnel, configurer de nouveaux utilisateurs et appareils et fournir un accès aux applications internes. Par exemple, installer un logiciel, utiliser des outils de prise en charge à distance pour résoudre les demandes de service. Ce qui m'intéresse dans ce métier est le travail d'équipe et la clientèle, mais ce qui m'intéresse moins est d'assumer le rôle de leadership en tant que spécialiste de l’interface de l'assistance à distance.   
+# Emploi 3 
+## Ensignant en intégration multimédia  
+Le métier d'enseignant en intégration multimédia consiste à enseigner différent domaine du multimédia. Les tâches principales sont la préparation du plan d’études, la préparation de cours, de laboratoires ou de stages, la prestation de cours, de laboratoires ou de stages, l’encadrement de ses étudiantes et étudiants, la préparation, la surveillance et la correction d’examens et pleins d'autres. la qualification est d'avoir un Baccalauréat en communication. Il faut maitriser l'image 2D, le montage audio et vidéo et l'animation 3D. Ce qui m'intéresse est de travailler avec des apprentis et de leur montrer le savoir du multimédia. Ce qui m'attire moins est qu'on a un horaire très charger.  
+# Emploi 4 
+## Concepteur-réalisateur  
+Le concepteur-réalisateur est responsable de concevoir, réaliser, gérer et mettre en œuvre divers types de projets multimédias tels que des vidéos, des audios, des infographies.
+La personne occupant ce rôle assure la coordination de toutes les étapes d’un projet multimédia, de la conception à la production, en collaboration avec l’équipe des communications et la salle de rédaction. Elle adapte les scénarios rédigés par l’équipe de spécialistes. Les principales responsabilités sont d'agir à titre d’expert et prendre en charge toutes les étapes de production vidéo et audio, déterminer en collaboration avec l’équipe projet les outils les plus appropriés, participer à l’élaboration des scénarimages et du déroulement des contenus vidéo et audio et aussi oncevoir les éléments graphiques liés au projet. Il faut un diplôme technique en production et post-production télévisuelles, art et technologie des médias, intégration multimédia. Ce qui m'intéresse est est de réaliser des conceptions visuel ou audios. Ce qui m'intéresse moins est de prendre en charge toutes les étapes de production audio et vidéo.    
+# Emploi 5 
+## Directeur du service de désign graphique
+La personne recherchée est reconnue pour son sens du leadership. Elle est en mesure de travailler au sein d’un groupe multidisciplinaire et de diriger le travail de son équipe composée d’infographistes 2D et 3D. Elle est créative, autonome et polyvalente et démontre un intérêt marqué pour le design sous toutes ses formes. Les principales responsabilité sont de dirigé, coordonné et participé activement à la conception graphique et à la préparation des documents de présentation des projets de l’entreprise en format InDesign, ainsi qu’à l’élaboration des rendus 3D et des animations 3D. Il faut par exemple une formation technique en design, graphisme, multimédia ou arts plastiques ou de l'expérience pertinente d’au moins 5 ans dans une fonction similaire comportant un volet de gestion et d’encadrement d’équipes de travail. Ce qui m'intéresse et la conception graphique et ce qui m'intéresse moins est la préparation des documents de présentation des projets de l’entreprise. 
