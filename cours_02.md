@@ -2,10 +2,10 @@
 ## Présentation des liens
 
 ### Lien 1
-https://youtu.be/u3ybWiEUaUU J'ai choisi ce lien car j'aime beaucoup la manière de la publicité pour nous doonner envis de consommer chez starbuck. Leur interractivité avec les objets et le montage effectuer est très convainquant 
+https://youtu.be/u3ybWiEUaUU J'ai choisi ce lien car j'aime beaucoup la manière de la publicité pour nous donner envis de consommer chez starbuck. Leur interactivité avec les objets et le montage effectuer est très convainquant 
 
 ### Lien 2 
-https://savagethrills.com/wp-content/uploads/2018/05/vans-shoes-fashion-skate-lifestyle-culture-art-collaboration-savagethrills-savahe-thrills-frf.jpg j'aime particulièrement cette publicité de Vans. Elle fais très Vintage tout comme le slyle de la chaussure. Je trouve qu'elle est adopter a son image. 
+https://savagethrills.com/wp-content/uploads/2018/05/vans-shoes-fashion-skate-lifestyle-culture-art-collaboration-savagethrills-savahe-thrills-frf.jpg j'aime particulièrement cette publicité de Vans. Elle fais très Vintage tout comme le slyle de la chaussure. Je trouve qu'elle est adapter a son image. 
 
 ### Lien 3 
  https://logosmarcas.net/wp-content/uploads/2020/05/Fanta-Logo.png Ce logo est l'un de mes préféré pour son coter épurer entre l'orange le fruit et la boisson en elle meme 
