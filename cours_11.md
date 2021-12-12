@@ -6,10 +6,12 @@ Durée: 5 à 7 minutes
 Parlez du projet multimédia sélectionné. 
 
 ### Carte heuristique
-Joindre la carte heuristique du projet. 
+![Carteheuristique](https://user-images.githubusercontent.com/90365870/145733474-9670a2ea-cab3-46e0-8756-0ed6ff0d0ef1.jpg)
+
 
 ### Technologies
-Nommer les technologies reliées au projet. 
+programmation, design web, Modélisation 3D, Animation 2D 
 
 ### Analyse critique
 Faites une analyse critique du projet. En quoi est-il pertinent? Sur quels aspects pourrait-il être amélioré? Quels sont ses points forts? En quoi ce projet est-il original? 
+
