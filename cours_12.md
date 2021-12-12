@@ -1,3 +1,4 @@
 # Cours 12
 ## Création de scénarimage
-Créer un scénarimage et le joindre ici: 
+
+Storyboard_2021-11-16_02.34.15.pdf
