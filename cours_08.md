@@ -1,6 +1,7 @@
 # Cours 8
 ## Création de palette de couleur
-Joindre la palette de couleur que vous avez sélectionnée pour la présentation 2 dans votre journal de bord.   
+   
+![image](https://user-images.githubusercontent.com/90365870/145733589-2c75f107-38bf-488d-b0b7-e87059687d9c.png)
 
 Suggestions de sites où trouver des palettes de couleur: 
 * [Coolors](https://coolors.co/)
